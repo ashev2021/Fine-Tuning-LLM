@@ -1,4 +1,4 @@
-# 🧠 Fine-Tuning LLMs for Text Classification
+# 🧠 Fine-Tuning LLMs for Text Classification + Gradio
 
 This repository is part of my personal hands-on practice in fine-tuning **large language models (LLMs)** for classification tasks. It includes implementations and experiments with multiple training strategies on encoder-based models.
 
